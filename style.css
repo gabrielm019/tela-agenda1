@@ -1,0 +1,11 @@
+.cabecalho{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 30px;
+    color: rgb(245, 174, 113);
+}
+
+.form-group{
+    text-align: center;
+    font-size: 30px;
+}
